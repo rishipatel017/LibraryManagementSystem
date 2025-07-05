@@ -22,6 +22,8 @@ A simple console-based Java application for managing a library system. It allows
 
 
 ## 🧩 Project Structure
+bash 
+```
 ├── 📁 library/
 |    LibrarySystem/
 |    │
@@ -51,7 +53,7 @@ A simple console-based Java application for managing a library system. It allows
 ├── books.dat                    # Serialized book data
 ├── users.dat                    # Serialized user data
 └── README.md                    # Project documentation
-
+```
 
 
 ## 🧰 Features
